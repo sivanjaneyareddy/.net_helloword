@@ -9,7 +9,7 @@
     "postinstall": "npm run build"
   },
   "dependencies": {
-    "express": "4.16.2"
+    "express": "4.19.2"
   },
   "devDependencies": {
     "babel-cli": "6.26.0",
